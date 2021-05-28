@@ -1,0 +1,99 @@
+.body{
+    display: inline-block;
+}
+.header nav{
+    float:right;
+    margin-top: 35px;
+}
+.header nav a{
+    padding-right: 50px;
+    color: gray;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+.header h5{
+    display: inline-block;
+    margin-left: 250px;
+}
+.header{
+    height: 100px;
+    background-color: white;
+}
+.landing-page-text{
+    height: 600px;
+    width: 100%;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    background-color:rgba(205, 136, 255,0.1);
+}
+.landing-page-text h1{
+    text-align: center;
+    font-size: 100px;
+    margin: 60px;
+    margin-bottom: 5px;
+    margin-top: 150px;
+}
+.landing-page-text h4{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.slika-lama{
+
+    float: right;
+}
+.text-who-we-are{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+}
+.text-who-we-are h5{
+    margin-left: 250px;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.text-who-we-are p{
+    margin-left: 250px;
+    font-size: 25px;
+    display: inline-block;
+}
+.adventure{
+    height: 300px;
+    width: 100%;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    background-color:rgba(205, 136, 255,0);
+}
+.adventure h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 90px;
+}
+.footer{
+    height: 150px;
+    background-color: rgba(205, 136, 255,0.4);
+}
+.footer p{
+     font-family: 'Poppins', sans-serif;
+     margin-left: 250px;
+     padding-top: 30px;
+     margin-bottom:  0px;
+}
+.footer a{
+     font-family: 'Poppins', sans-serif;
+     margin-left: 250px;
+     text-decoration: none;
+     font-weight: 800;
+     color:black;
+}
+.footer p:last-of-type{
+    padding:0px;
+    
+}
+.description{
+    margin-left: 250px;
+     font-family: 'Poppins', sans-serif;
+}
+
